@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmsMicroService.Api", "SmsMicroService.Api\SmsMicroService.Api.csproj", "{5B41D86A-ECB3-4948-861F-2B76994B03A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmsMicroService.Application", "SmsMicroService.Application\SmsMicroService.Application.csproj", "{6A73E84B-63E5-46E6-A801-2C0E234A90D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmsMicroService.Infrastructure", "SmsMicroService.Infrastructure\SmsMicroService.Infrastructure.csproj", "{AD3A6557-43BA-4597-AFF7-8FE40B89B75A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B41D86A-ECB3-4948-861F-2B76994B03A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B41D86A-ECB3-4948-861F-2B76994B03A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B41D86A-ECB3-4948-861F-2B76994B03A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B41D86A-ECB3-4948-861F-2B76994B03A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A73E84B-63E5-46E6-A801-2C0E234A90D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A73E84B-63E5-46E6-A801-2C0E234A90D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A73E84B-63E5-46E6-A801-2C0E234A90D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A73E84B-63E5-46E6-A801-2C0E234A90D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD3A6557-43BA-4597-AFF7-8FE40B89B75A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD3A6557-43BA-4597-AFF7-8FE40B89B75A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD3A6557-43BA-4597-AFF7-8FE40B89B75A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD3A6557-43BA-4597-AFF7-8FE40B89B75A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
